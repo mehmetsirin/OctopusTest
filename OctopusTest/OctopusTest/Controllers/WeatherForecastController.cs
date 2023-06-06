@@ -25,7 +25,7 @@ namespace OctopusTest.Controllers
         {
 
             //  mehmet
-            //main
+            
             var rng = new Random();
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
