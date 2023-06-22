@@ -24,6 +24,7 @@ namespace OctopusTest.Controllers
         public IEnumerable<WeatherForecast> Get()
         { 
             AppDomain  
+                  mehmet  
             var rng = new Random();
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
