@@ -24,7 +24,8 @@ namespace OctopusTest.Controllers
         public IEnumerable<WeatherForecast> Get()
         { 
          AppDomain   dsdsds
-            var rng = new Random();
+                
+                  mehmetvar rng = new Random();
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
                 Date = DateTime.Now.AddDays(index),
