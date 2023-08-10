@@ -16,8 +16,7 @@ namespace OctopusTest.Controllers
         private readonly ILogger<WeatherForecastController> _logger;
 
           
-          merhaba  mehmet
-              merhasba  main
+       
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
             _logger = logger;
