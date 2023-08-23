@@ -4,7 +4,6 @@ namespace OctopusTest
 {
     public class WeatherForecast
     {
-               namespace nbn
-
+fdfdfd
     }
 }
