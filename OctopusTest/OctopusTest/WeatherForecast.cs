@@ -4,8 +4,6 @@ namespace OctopusTest
 {
     public class WeatherForecast
     {
-        xxxxxxxxxxxxxxxxxxxxxxxxx
-      
-        xxxx
+     merhaba
     }
 }
