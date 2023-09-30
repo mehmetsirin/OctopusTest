@@ -5,7 +5,13 @@ namespace OctopusTest
     public class WeatherForecast
     {
         int main = 0;
-        public   void xx
+        int main1 =1 ;
+
+        public void xx
+        {
+
+        }
+     public  void xx
         {
 
         }
